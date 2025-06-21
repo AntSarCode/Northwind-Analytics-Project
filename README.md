@@ -51,10 +51,4 @@ This project was developed to:
 
 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it for educational or professional purposes.
-
-
----
-
-Would you like me to:
-- Save this as a file and help you commit/push it to GitHub?
 - Generate similar versions for your other three projects?
